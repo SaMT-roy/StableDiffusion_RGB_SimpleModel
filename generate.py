@@ -17,7 +17,7 @@ import torch
 import clip_text
 from diffusion import make_alpha_bar, ddim_sample
 from model import VAE, UNet
-from train import MODEL_PATH, OUT_DIR, PREVIEW_PROMPTS
+from train_diffusion import MODEL_PATH, OUT_DIR, PREVIEW_PROMPTS
 from train_vae import get_device, save_grid
 
 SAMPLING_STEPS = 50    # DDIM steps: more is slower but slightly cleaner
