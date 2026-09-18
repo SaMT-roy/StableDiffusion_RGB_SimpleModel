@@ -36,8 +36,8 @@ Trained on COCO 2017 at 64×64 on a **MacBook Air M2 with 8 GB of RAM**.
 <td align="center"><em>“a small white boat on a calm lake”</em></td>
 </tr>
 <tr>
-<td><img src="out/a_beautiful_sunset_at_the_beach_g5_s38461.png" alt="sunset"></td>
-<td><img src="out/a_foggy_magical_forest_g5_s39494.png" alt="boat"></td>
+<td><img src="assets/a_beautiful_sunset_at_the_beach_g5_s38461.png" alt="sunset"></td>
+<td><img src="assets/a_foggy_magical_forest_g5_s39494.png" alt="boat"></td>
 </tr>
 <tr>
 <td align="center"><em>“a beautiful sunset at the beach”</em></td>
